@@ -149,9 +149,9 @@ public class HomeFragment extends Fragment {
                 mymenu.getItem(0).setIcon(ContextCompat.getDrawable(getContext(), R.drawable.ic_outline_menu_24px));
                 menuIconEvent = !menuIconEvent;
 
-                AboutSmvitmHomeFragment aboutSmvitmHomeFragment = new AboutSmvitmHomeFragment();
+                NewsHomeFragment newsHomeFragment = new NewsHomeFragment();
                 FragmentTransaction fragmentTransaction = getActivity().getSupportFragmentManager().beginTransaction();
-                fragmentTransaction.replace(R.id.homePageFragment, aboutSmvitmHomeFragment);
+                fragmentTransaction.replace(R.id.homePageFragment, newsHomeFragment);
                 fragmentTransaction.commit();
             }
         });

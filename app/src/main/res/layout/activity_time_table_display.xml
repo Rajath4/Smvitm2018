@@ -69,14 +69,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
-                android:background="#dce0e2">
+                android:background="@color/colorAccentLight">
 
 
                 <Button
                     android:id="@+id/day"
+                    style="@style/Widget.Smvitm.Button.TimeTable"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
                     android:fontFamily="serif"
                     android:gravity="center"
                     android:text="Hooo"

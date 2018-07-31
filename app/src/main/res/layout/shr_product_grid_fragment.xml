@@ -52,8 +52,8 @@
             style="@style/Widget.Shrine.Toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            app:navigationIcon="@drawable/ic_menu_slideshow"
-            app:title="@string/shr_app_name" />
+            app:navigationIcon="@mipmap/ic_smvitm_logo"
+            app:title="@string/app_name" />
     </android.support.design.widget.AppBarLayout>
 
 </RelativeLayout>

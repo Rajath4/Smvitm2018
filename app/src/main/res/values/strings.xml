@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SmvitmBeta</string>
+    <string name="app_name">Smvitm</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -9,6 +9,11 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="google_maps_key">AIzaSyDn_6UEluvD0Hlz7cioEdb-QUGCBruXl0o</string>
+
+
+    <string name="vtu_Notification">Circular</string>
+    <string name="vtu_News">News</string>
+    <string name="vtu_Results">Results</string>
 
 
     <string name="latest">News</string>
