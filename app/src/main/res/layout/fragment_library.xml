@@ -1,0 +1,269 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.smvitm.rajath.smvitm.Fragment.LibraryFragment">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.smvitm.rajath.smvitm.Clg_BookActivity">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:elevation="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/smvitm_library_info"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="normal"
+                    android:textColor="#292f33"/>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view_computerization"
+                android:layout_below="@+id/card_view_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:elevation="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10sp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Library Computerization"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:id="@+id/t2"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/librarycomputerization"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="normal"
+                        android:layout_below="@+id/t2"
+                        android:textColor="#292f33"/>
+
+
+                </RelativeLayout>
+
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view_timings"
+                android:layout_below="@+id/card_view_computerization"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:elevation="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10sp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Library Timings"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:id="@+id/t5"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Monday to Saturday\n\n8.00 A.M. to 6.00 P.M."
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="normal"
+                        android:layout_below="@+id/t5"
+                        android:textColor="#292f33"/>
+
+
+                </RelativeLayout>
+
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view_section"
+                android:layout_below="@+id/card_view_timings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:elevation="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10sp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Sections"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:id="@+id/t7"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="It comprise of the following sections:
+
+\n\t* Lending Section
+\n\t* Reading Section
+\n\t* Reference Section
+\n\t* Book Bank Section
+\n\t* Periodical Section
+\n\t* Digital Library"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="normal"
+                        android:layout_below="@+id/t7"
+                        android:textColor="#292f33"/>
+
+
+                </RelativeLayout>
+
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view_facilities"
+                android:layout_below="@+id/card_view_section"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:elevation="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="20sp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Facilities"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:id="@+id/t8"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="* E-PAC Link
+\n* Book Bank Facility
+\n* Book Circulation
+\n* Open Access for all Students, Faculty and Staff
+\n* OPAC Facility
+\n* Periodical reading facility
+\n* Reading room Facility
+\n* Reference service
+\n* Group Study Facility
+\n* Photography and Document Printing Facility"
+                        android:layout_marginRight="5sp"
+                        android:layout_marginLeft="10sp"
+                        android:layout_marginTop="10sp"
+                        android:layout_marginBottom="10sp"
+                        android:fontFamily="serif"
+                        android:textStyle="normal"
+                        android:layout_below="@+id/t8"
+                        android:textColor="#292f33"/>
+
+
+                </RelativeLayout>
+
+
+
+
+            </android.support.v7.widget.CardView>
+
+
+
+        </RelativeLayout>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</FrameLayout>

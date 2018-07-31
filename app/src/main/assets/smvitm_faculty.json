@@ -1,0 +1,382 @@
+{
+  "deptofcse":
+  [
+
+
+
+    {
+      "name":"Dr. VASUDEVA",
+      "Designation":"Professor And Head",
+      "EducationalQualification":"PhD (Mathematical and Computational Sciences)\nMCA (Computer Applications)\nB.Sc.(Mathematics, Physics, Statistics)",
+      "AreaofSpecialization":"Graph Theory and applications",
+      "Experience":"Teaching – 13 Years\nResearch – 10 Years\nIndustry – Nil\nOthers – Nil",
+      "Memberships":"SMCSI, ORSI, CRSI, ACM, AMS, ACCS, ADMA, RMS, IMS, ISTE, SMIEEE",
+      "Awards":"“Best Thesis Award in CS Area” by Board for IT Education Standards (BITES), Government of Karnataka (2014).\n\nAwarded best paper presenter in international conferences award by CSI. (2012)\n\nGot the best paper award at National Conference on Discrete Mathematics and its Applications to Science and Social Systems, held at Govindadasa College, Surathkal, Karnataka, India (2009).\n\nReceived travel grant from DST, CICS, NBHM, CIMPA (France) to present papers in Australia, China, Nepal and Canada.\n\nReceived seminar grant from AICTE\n\nReceived research fellowship from NITK for 4 years\n\nNominated as member, BOS in MCA, VTU during 2013-16",
+      "AreaOfInterest":"Graph Theory and Applications, Algorithms, Discrete Mathematics and Combinatorics\nComputer Vision, Image Processing\nOperations Research, Computational Mathematics",
+      "Publications":"National Journals/Conferences – 8\nInternational Journals/Conferences – 11",
+      "NoofPGPhDThesesguided":"PG – 40\nPhD –4",
+      "ContactDetails":"Email – vasudevanitk@gmail.com\nLinkedIn – http://in.linkedin.com/pub/vasudeva-acharya/25/671/9b6/\nPhone: +91 9448911385\nWeb: http://sode-edu.in/dr-vasudeva/"
+
+    },
+    {
+      "name":"Mr. VENUGOPALA RAO A. S",
+      "Designation":"Assistant Professor (Senior)",
+      "EducationalQualification":" M.Tech (Computer Network Engineering)\nBE (Electronics and Communication Engineering)",
+      "AreaofSpecialization":"-",
+      "Experience":"Teaching – 11 yrs 2 months",
+      "Memberships":"MISTE.",
+      "Awards":"Best Teacher Award\nKSCST Sponsored Student Project “ Remote tracking of Vehicles”",
+      "AreaOfInterest":"Image Processing\nNetworking",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – rao.venugopal@gmail.com\nLinkedIn –https://in.linkedin.com/in/venugopal-rao-0a831415\nPhone – 0820-2589182/2589183\nWeb- http://sode-edu.in/venugopala-rao-a-s/"
+
+    },
+    {
+      "name":"Mr. SHRINIVASA",
+      "Designation":"Assistant Professor (Senior)",
+      "EducationalQualification":"M.Tech (Computer Science and Engineering)\nB.E ( Computer Science and Engineering)",
+      "AreaofSpecialization":"Data Structures",
+      "Experience":"Teaching – 10 Years 4 Months\nIndustry – 1 Year 8 Months",
+      "Memberships":"MISTE.",
+      "Awards":"-",
+      "AreaOfInterest":"Network Security and Data Mining\nCloud Computing and Machine Learning\nDesign and Analysis of Algorithms",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"PG – 3",
+      "ContactDetails":"Email – sri_92002@yahoo.co.in\nPhone – +91 9900277682\nWeb: http://sode-edu.in/shrinivasa/"
+    },
+    {
+      "name":"Mr. SIJU V SOMAN",
+      "Designation":"Assistant Professor (Senior)",
+      "EducationalQualification":"M.Tech (Information Technology)\nMSc. (Software Engineering)",
+      "AreaofSpecialization":"Software Engineering",
+      "Experience":"Teaching – 7 Years\nIndustry – 2 Years",
+      "Memberships":"MISTE",
+      "Awards":"Best Teacher Award 2014 – by SMVITM\nTop Agent for the month of April 2007 – by Microsoft",
+      "AreaOfInterest":"Internet of Things\nArtificial Intelligence\nBig Data",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"PG – 2",
+      "ContactDetails":"Email – sijuvsoman@gmail.com\nLinkedIn – in.linkedin.com/pub/siju-v-soman/10/5b7/444/\nPhone – (+91) 9164332645\nWeb: http://sode-edu.in/ siju-v-soman/"
+    },
+    {
+      "name":"Mr. JAYARAM C V",
+      "Designation":"Assistant Professor (Senior)",
+      "EducationalQualification":"PhD (Computer Science)-pursuing\nM.Tech (Computer Network Engineering)\nBE (Computer Science)",
+      "AreaofSpecialization":"Computer Networks",
+      "Experience":"Teaching – 9 years\nIndustry – 5 years",
+      "Memberships":"MISTE.",
+      "Awards":"-",
+      "AreaOfInterest":"Image Processing\nData Mining, Cloud Computing",
+      "Publications":"National Journals/Conferences – 2\nInternational Journals/Conferences – 2",
+      "NoofPGPhDThesesguided":"PG – 4",
+      "ContactDetails":"Email –jayaramscv77@gmail.com\nPhone – +91 9538780037\nWeb: http://sode-edu.in/dr-jayaram-c-v/"
+    },
+    {
+      "name":"Ms. YASHASWINI JOGI",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science and Engineering)\nBE (Computer Science)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching –7Years 4 Months",
+      "Memberships":"ISTE, IEEE.",
+      "Awards":"-",
+      "AreaOfInterest":"Computer graphics\nAlgorithms and programming",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email– jogi.yash@gmail.com\nLinkedIn – in.linkedin.com/in/yashaswinijogi\nPhone– 0820 (216)\nWeb: http://sode-edu.in/yashaswini-jogi/"
+    },
+    {
+      "name":"Ms. SAHANA KARANTH",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science)\nBE (Information Science)",
+      "AreaofSpecialization":"Computer Science",
+      "Experience":"Teaching – 5 years 4 months",
+      "Memberships":"ISTE",
+      "Awards":"First Rank and Gold Medal for being the Academic Topper in Computer Science and Engineering of NMAMIT, Nitte Institute during the period 2013-2015",
+      "AreaOfInterest":"Parallel Processing\nGPU Computing",
+      "Publications":"National Conferences – 1\nInternational Conferences – 1",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email:karanthsahana@gmail.com\nWeb: http://sode-edu.in/sahana-karanth/"
+
+    },
+    {
+      "name":"Mr. DEEPAK RAO M",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech. (Computer Science)\nB.E. (Information Science)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching – 3 years 9 Months\nResearch – 1 years\nIndustry – 1 year 5 Months",
+      "Memberships":"MISTE",
+      "Awards":"Worked as Research Associate for DST funded Project",
+      "AreaOfInterest":"Embedded Systems\nReal Time Operating Systems\nDigital Electronics",
+      "Publications":"National Journals/Conferences – 4\nInternational Journals/Conferences – 2",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – rmdeepak@gmail.com\nPhone – 0820 2003098\nWeb: http://sode-edu.in/deepak-rao-m/"
+
+    },
+    {
+      "name":"Ms. PRIYANKA",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science)\nBE (Information science)",
+      "AreaofSpecialization":"-",
+      "Experience":"Teaching – 5Years 6 Months",
+      "Memberships":"ISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Cryptography\nData Mining",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – priyaullur08@gmail.com\nPhone – 0820  216\nWeb: http://sode-edu.in/priyanka/"
+
+    },
+    {
+      "name":"Mr. PRAVEEN M NAIK",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science and Engineering)\nBE (Information Science and Engineering)",
+      "AreaofSpecialization":"Logic Design, Formal Language and Automata Theory\nStorage Area Network\nComputer Concepts and C Programming",
+      "Experience":"Teaching – 2 Years 6 Months\nIndustry – 1 Year",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Computer Networking, Wireless Sensor Networks\nData Warehousing, Multimedia Mining",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – coolmrpraveen@gmail.com\nPhone -+91 9741735491\nWeb: http://sode-edu.in/praveen-m-naik/"
+
+    },
+    {
+      "name":"Mr. RAMA MOORTHY H",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science & Information Security)\nBE (Computer science & Engineering)\nDCS ( Computer science & Engineering)",
+      "AreaofSpecialization":"Information Security",
+      "Experience":"Teaching – 3 years 6 Months\nIndustry – 2 Years\nOthers – 6 Years",
+      "Memberships":"MISTE, IEEE.",
+      "Awards":"Represented, Winners of Sri Trophy-2014, Cricket Tournament for Engineering Staff’s held in S.I.T-Valachil, Mangalore.\nRepresented College Cricket Teams in District League Matches.\nRunners at IIT Madras (SHAASTRA-2007) in Robotics (Get a Grip).\nWinners at IIT Bombay (TECHFEST-2008) in Mech a Boolean\nSecretary of the Rotaract Club Nitte in 2005.\nPresident of the Rotaract Club N.M.A.M.I.T-Nitte in 2007.\nWorked as an Insurance Agent in L.I.C of India for SIX years (2003 to 2009)",
+      "AreaOfInterest":"Two-Factor Authentication\nSteganography\nVisual Cryptography",
+      "Publications":"International Journals/Conferences – 9",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – ramsnitte@@gmail.com\nPhone – +91 9845676359\nWeb: http://sode-edu.in/rama-moorthy-h/"
+
+    },
+    {
+      "name":"Ms.TEJASWINI H",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech(Computer Science) – Pursuing\nBE (Computer science)",
+      "AreaofSpecialization":"Computer Science",
+      "Experience":"Teaching –3 Years 3 Months",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Data Structures\nAlgorithms, Data Mining",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email–tejaswinismvitm@gmail.com\nLinkedIn – https://www.linkedin.com/in/tejaswinihbhat\nhttp://sode-edu.in/ tejaswini-h/"
+
+    },
+    {
+      "name":"Mr. NAGARAJ BHAT",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"PhD (Computer Science)-Pursuing\nM.Tech (Geo Informatics)\nBE (Computer science)",
+      "AreaofSpecialization":"Remote Sensing Data Analysis Using GIS",
+      "Experience":"Teaching – 3 Years\nIndustry – 2 Years 6 Months\nResearch – 6 Years",
+      "Memberships":"AGU, ISRS, EGU, MISTE.",
+      "Awards":"	Best Paper Award From ISRS in 2011",
+      "AreaOfInterest":"Satellite Image & Data Processing\nGIS Modelling\nWeather Informatics",
+      "Publications":"National Journals/Conferences – 7\nInternational Journals/Conferences – 21",
+      "NoofPGPhDThesesguided":"	PG – 8",
+      "ContactDetails":"Email – nagakallare@gmail.com\nPhone – +91-9964304006\nWeb: http://sode-edu.in/dr-nagaraj-bhat/"
+
+    },
+    {
+      "name":"Mr. SHARATH KUMAR",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Network Engineering)\nBE (Computer science and Engineering)",
+      "AreaofSpecialization":"Computer Networks",
+      "Experience":"Teaching -3 Years\nIndustry – 1 year",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Image Processing\nNetwork security",
+      "Publications":"National Journals/Conferences – 2\nInternational Journals/Conferences – 3",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – sksharath96@gmail.com\nWeb: http://sode-edu.in/sharath-kumar/"
+
+    },
+    {
+      "name":"Ms. RAMYA D SHETTY",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech  (Computer science)\nBE (Computer science)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching – 4 years 4 months\nIndustry – 1 Years",
+      "Memberships":"MISTE",
+      "Awards":"Best Teacher Guardian Award",
+      "AreaOfInterest":"Data Mining\nBig Data",
+      "Publications":"National Journals/Conferences – 1\nInternational Journals/Conferences – 1",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – shettyramya29@gmail.com\nPhone -0820   216\nWeb: http://sode-edu.in/ramya-d-shetty/"
+
+    },
+    {
+      "name":"Mr. B N RAMACHANDRA",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science& Engg.)\nBE (Computer science& Engg.)",
+      "AreaofSpecialization":"Digital Image Processing",
+      "Experience":"Teaching – 3 years\nOthers -4 Years",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Digital Image Processing\nEmbedded Systems\nComputer Vision and Graphics",
+      "Publications":"National Journals/Conferences – 8\nInternational Journals/Conferences –4",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email–manubn55@gmail.com\nPhone – +91-8197779585\nWeb:http://sode-edu.in/b-n-ramachandra/"
+
+    },
+    {
+      "name":"Mr. MANOJ T",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Networking and Internet Engineering)\nBE (Information Science)",
+      "AreaofSpecialization":"Networking and Internet Engineering",
+      "Experience":"Teaching – 2 years   4 months\nIndustry –  2 years",
+      "Memberships":"MISTE",
+      "Awards":"“Eager to win” award from Philips India Ltd for YouTube Certification for Blu-ray players",
+      "AreaOfInterest":"Internet of Things(IoT)\nSemantic Web, Web Services\nCybersecurity, Networking and Open Source Softwares",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – manoj89biet@gmail.com\nLinkedIn – http://bit.ly/2edCf92\nPhone – +919481845229\nWeb: http://sode-edu.in/manoj-t/"
+
+    },
+    {
+      "name":"Ms.SHINNY MELITA DSOUZA",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science and Engineering)\nBE (Computer Science and Engineering)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching – 2 Years",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Database Management Systems\nComputer Graphics\nCloud Computing",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – dsouza.shinny@gmail.com\nPhone – 0820-2589182\nWeb: http://sode-edu.in/shinny-melita-dsouza/"
+
+    },
+    {
+      "name":"Ms. SWATHI PRABHU",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science & Engineering)\nB.E (Computer Science & Engineering)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching- 1 Year 3 Months",
+      "Memberships":"MISTE",
+      "Awards":"Academic Achievement: Silver Medal in M.Tech at NMAMIT Nitte",
+      "AreaOfInterest":"BigData\nHadoop",
+      "Publications":"International Journals/Conferences – 4",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – prabhuswathi2@gmail.com\nPhone –+91 820 2589183\nWeb:http://sode-edu.in/swathi-prabhu/"
+
+    },
+    {
+      "name":"Ms. KAVYASHREE",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"BE (Computer science)",
+      "AreaofSpecialization":"CSE",
+      "Experience":"Teaching – 1 Year 3 Months",
+      "Memberships":"MISTE",
+      "Awards":"-",
+      "AreaOfInterest":"DBMS\nComputer Graphics",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – kavyabhandari5@gmail.com\nPhone – 0820-2589182\nWeb: http://sode-edu.in/kavyashree/"
+
+    },{
+    "name":"Ms. RAMYASHREE",
+    "Designation":"Assistant Professor",
+    "EducationalQualification":"BE (Computer Science and Engineering)",
+    "AreaofSpecialization":"Computer Science",
+    "Experience":"Teaching – 8 Months",
+    "Memberships":"-",
+    "Awards":"-",
+    "AreaOfInterest":"Graph Theory\nNetworking\nData Structure",
+    "Publications":"-",
+    "NoofPGPhDThesesguided":"-",
+    "ContactDetails":"Email: ramyashreebhat1994@gmail.com\nPhone – 0820-2589182\nWeb: http://sode-edu.in/ramyashree/"
+
+  },
+    {
+      "name":"Ms. SNEHA N S",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer Science)\nB.E   (Computer Science)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching -1 Year 5 Months",
+      "Memberships":"MISTE",
+      "Awards":"Meritorious Student Award in M.Tech",
+      "AreaOfInterest":"Image Processing\nData Mining",
+      "Publications":"National Journals/Conferences – 1\nInternational Journals/Conferences – 1",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – snehaiyengar91@gmail.com\nWeb: http://sode-edu.in/sneha-n-s/"
+
+    },
+    {
+      "name":"Ms. SINDHURA D N",
+      "Designation":"Assistant Professor",
+      "EducationalQualification":"M.Tech (Computer  Science and engineering)\n BE (Information  science and engineering)",
+      "AreaofSpecialization":"-",
+      "Experience":"Teaching – 2 years 7 months",
+      "Memberships":"-",
+      "Awards":"-",
+      "AreaOfInterest":"Wireless  sensor network\nAdhoc Networks",
+      "Publications":"National Journals/Conferences – 1",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – sindhura.dn@gmail.com\nPhone – 08202589182\nWeb: http://sode-edu.in/sindhura-d-n/"
+
+    },{
+    "name":"Ms. SOWMYA S",
+    "Designation":"Assistant  Professor",
+    "EducationalQualification":"M.Tech (Computer Science)\nBE (Computer science)",
+    "AreaofSpecialization":"Computer Science and Engineering",
+    "Experience":"Teaching – 2 years\nIndustry -2 years",
+    "Memberships":"ISTE",
+    "Awards":"-",
+    "AreaOfInterest":"Image Processing",
+    "Publications":"",
+    "NoofPGPhDThesesguided":"-",
+    "ContactDetails":"Email – somi.shrinivas@gmail.com\nWeb: http://sode-edu.in/sowmya-s/"
+
+  },{
+    "name":"Ms. ANUJNA RAO",
+    "Designation":"Assistant  Professor",
+    "EducationalQualification":"M.Tech (Computer Science)\nBE (Computer science)",
+    "AreaofSpecialization":"Computer Science",
+    "Experience":"Industry – 4 Months",
+    "Memberships":"ISTE",
+    "Awards":"-",
+    "AreaOfInterest":"Big Data\nHadoop",
+    "Publications":"International Journals/Conferences – 1",
+    "NoofPGPhDThesesguided":"-",
+    "ContactDetails":"Email – raoanujna@gmail.com\nLinkedIn -https://www.linkedin.com/in/anujna-rao-b92575a4\nWeb: http://sode-edu.in/anujna-rao/ ‎"
+
+  },
+    {
+      "name":"Ms. RUKMINI BALLAL",
+      "Designation":"Assistant  Professor",
+      "EducationalQualification":"M.Tech (Computer Science)\nBE (Computer science)",
+      "AreaofSpecialization":"Computer Science and Engineering",
+      "Experience":"Teaching – 5 years",
+      "Memberships":"ISTE",
+      "Awards":"-",
+      "AreaOfInterest":"Networking",
+      "Publications":"-",
+      "NoofPGPhDThesesguided":"-",
+      "ContactDetails":"Email – rukminibhat9@gmail.com\nWeb: http://sode-edu.in/rukmini-ballal/"
+
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

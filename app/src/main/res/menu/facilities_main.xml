@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cafeteria_fragment"
+        android:orderInCategory="100"
+        android:title="Cafeteria"
+        android:icon="@drawable/ic_cafeteria_black_24dp"/>
+    <item
+        android:id="@+id/college_bus_fragment"
+        android:orderInCategory="100"
+        android:title="Bus"
+        android:icon="@drawable/ic_college_bus_black_24dp"/>
+    <item
+        android:id="@+id/librery_fragments"
+        android:orderInCategory="100"
+        android:title="Library"
+        android:icon="@drawable/ic_open_book"/>
+</menu>

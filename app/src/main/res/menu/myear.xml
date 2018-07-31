@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/oneyear"
+        android:title="1st year"/>
+
+    <item
+        android:id="@+id/seyear"
+        android:title="2nd year"/>
+
+    <item
+        android:id="@+id/tiryear"
+        android:title="3rd year"/>
+
+    <item
+        android:id="@+id/fouryaer"
+        android:title="4th year"/>
+
+</menu>

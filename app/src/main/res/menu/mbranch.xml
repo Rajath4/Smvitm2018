@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/cv"
+        android:title="Civil Engineering"/>
+
+    <item
+        android:id="@+id/cs"
+        android:title="Computer Science and Engineering"/>
+
+    <item
+        android:id="@+id/ec"
+        android:title="Electronics and Communication Engineering"/>
+
+    <item
+        android:id="@+id/me"
+        android:title="Mechanical Engineering"/>
+
+</menu>

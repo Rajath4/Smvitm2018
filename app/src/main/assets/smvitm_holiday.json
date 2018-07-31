@@ -1,0 +1,103 @@
+{
+  "holiday":
+          [
+            {
+              "id":"SI.\nNO.",
+              "month":"Month",
+              "date":"Date",
+              "day":"Day",
+              "info":"Info"
+            },
+            {
+              "id":"1",
+              "month":"Feb",
+              "date":"3",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"2",
+              "month":"Feb",
+              "date":"13",
+              "day":"Tue",
+              "info":"Maha Shivrathri"
+            },
+            {
+              "id":"3",
+              "month":"Feb",
+              "date":"17",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"4",
+              "month":"Mar",
+              "date":"17",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"5",
+              "month":"Mar",
+              "date":"29",
+              "day":"Thu",
+              "info":"Mahaveera Jayanthi"
+            },
+            {
+              "id":"6",
+              "month":"Mar",
+              "date":"30",
+              "day":"Fri",
+              "info":"Good Friday"
+            },
+            {
+              "id":"7",
+              "month":"Mar",
+              "date":"31",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"8",
+              "month":"Apr",
+              "date":"07",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"9",
+              "month":"Apr",
+              "date":"14",
+              "day":"Sat",
+              "info":"Ambedkar Jayanthi"
+            },
+            {
+              "id":"10",
+              "month":"Apr",
+              "date":"21",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"11",
+              "month":"May",
+              "date":"01",
+              "day":"Tue",
+              "info":"May Day"
+            },
+            {
+              "id":"12",
+              "month":"May",
+              "date":"05",
+              "day":"Sat",
+              "info":"Self Study Day"
+            },
+            {
+              "id":"13",
+              "month":"May",
+              "date":"19",
+              "day":"Sat",
+              "info":"Self Study Day"
+            }
+          ]
+}

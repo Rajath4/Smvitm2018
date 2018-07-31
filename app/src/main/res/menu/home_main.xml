@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <!-- <item
+        android:id="@+id/news_fragment"
+        android:orderInCategory="100"
+        android:title="@string/latest"
+        android:icon="@drawable/ic_newspaper"/>-->
+    <item
+        android:id="@+id/contact_us_fragment"
+        android:orderInCategory="100"
+        android:title="Time Table"
+        android:icon="@drawable/ic_time_table"/>
+    <item
+        android:id="@+id/maps_fragments"
+        android:orderInCategory="100"
+        android:title="Acedemic Calender"
+        android:icon="@drawable/ic_news_black_24dp"/>
+</menu>

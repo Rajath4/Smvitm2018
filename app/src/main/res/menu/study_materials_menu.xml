@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/news_fragment"
+        android:orderInCategory="100"
+        android:title="Syllabus"
+        android:icon="@drawable/ic_writting_file"/>
+    <item
+        android:id="@+id/contact_us_fragment"
+        android:orderInCategory="100"
+        android:title="Old Question Paper"
+        android:icon="@drawable/ic_books_stack_of_three"/>
+
+</menu>

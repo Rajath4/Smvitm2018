@@ -1,0 +1,334 @@
+{
+  "SMVITMCafeteria":
+          [
+            {
+              "id":"SI.\nNO.",
+              "name":"ITEMS\n",
+              "rate":"RATE \n(RS)"
+            },
+            {
+              "id":"",
+              "name":"BEVERAGES:",
+              "rate":""
+            },
+            {
+              "id":"1",
+              "name":"Tea,Coffee,Malt",
+              "rate":"10-00"
+            },
+            {
+              "id":"2",
+              "name":"Horlicks/Bournvita",
+              "rate":"15-00"
+            },
+            {
+              "id":"3",
+              "name":"Cold Drinks/Fresh Juices",
+              "rate":"10/12"
+            },
+            {
+              "id":"4",
+              "name":"Milk Shake",
+              "rate":"15-00"
+            },
+            {
+              "id":"5",
+              "name":"Lime Soda",
+              "rate":"15-00"
+            },
+            {
+              "id":"6",
+              "name":"Ginger Soda",
+              "rate":"20-00"
+            },
+            {
+              "id":"7",
+              "name":"Butter Milk Soda",
+              "rate":"20-00"
+            },
+            {
+              "id":"",
+              "name":"",
+              "rate":""
+            },
+            {
+            "id":"",
+            "name":"BREAKFAST:",
+            "rate":""
+          },
+            {
+              "id":"8",
+              "name":"Idly (2)",
+              "rate":"14-00"
+            },
+            {
+              "id":"9",
+              "name":"Vada (2)",
+              "rate":"20-00"
+            },
+            {
+              "id":"10",
+              "name":"Idly Vada (2-1)",
+              "rate":"23-00"
+            },
+            {
+              "id":"11",
+              "name":"Idly+Vada (Single)",
+              "rate":"16-00"
+            },
+            {
+              "id":"12",
+              "name":"Biscuit Ambade (2)",
+              "rate":"20-00"
+            },
+            {
+              "id":"13",
+              "name":"Kadubu (1)",
+              "rate":"15-00"
+            },
+            {
+              "id":"14",
+              "name":"Upma",
+              "rate":"10-00"
+            },
+            {
+              "id":"15",
+              "name":"Chow Chow Bath",
+              "rate":"20-00"
+            },
+            {
+              "id":"16",
+              "name":"Pulav/Bisi Bele Bath",
+              "rate":"20-00"
+            },
+            {
+              "id":"17",
+              "name":"Puliyogare/Rice Bath",
+              "rate":"20-00"
+            },
+            {
+              "id":"18",
+              "name":"Parota(2)",
+              "rate":"22-00"
+            },
+            {
+              "id":"19",
+              "name":"Chapathi Kurma/Baji(2)",
+              "rate":"20-00"
+            },
+            {
+              "id":"20",
+              "name":"Puri Baji/Kurma(3)",
+              "rate":"20-00"
+            },{
+            "id":"",
+            "name":"",
+            "rate":""
+          },
+            {
+              "id":"",
+              "name":"DOSA ITEMS:",
+              "rate":""
+            },
+            {
+              "id":"21",
+              "name":"Neer Dosa (3)",
+              "rate":"16-00"
+            },
+            {
+              "id":"22",
+              "name":"Sada Dosa(2)",
+              "rate":"16-00"
+            },
+            {
+              "id":"23",
+              "name":"Plain Dosa(1)",
+              "rate":"15-00"
+            },
+            {
+              "id":"24",
+              "name":"Masala Dosa",
+              "rate":"20-00"
+            },
+            {
+              "id":"25",
+              "name":"Uthappa",
+              "rate":"22-00"
+            },{
+            "id":"26",
+            "name":"Rava Dosa Plain",
+            "rate":"18-00"
+          },
+            {
+              "id":"27",
+              "name":"Rava Masala",
+              "rate":"22-00"
+            },
+            {
+              "id":"28",
+              "name":"Ghee Dosa",
+              "rate":"20-00"
+            },
+            {
+              "id":"29",
+              "name":"Mysore Masala",
+              "rate":"22-00"
+            },
+            {
+            "id":"",
+            "name":"",
+            "rate":""
+          },
+            {
+              "id":"",
+              "name":"LUNCH:",
+              "rate":""
+            },
+            {
+              "id":"30",
+              "name":"Normal Lunch:Rice, Sambar,Rasam, Palya,Pickle, Butter Milk (Unlimited)",
+              "rate":"30-00"
+            },
+            {
+              "id":"31",
+              "name":"Mini Special Lunch:Palav, Plain Rice, Dal,Puri(2) or Chapathi(1), One Sweet, Palya",
+              "rate":"35-00"
+            },
+            {
+              "id":"32",
+              "name":"Combo Meals (Gobi Manchurian Fried Rice)",
+              "rate":"35-00"
+            },{
+            "id":"",
+            "name":"CHINESE ITEMS",
+            "rate":""
+          },
+            {
+              "id":"33",
+              "name":"Gobi Manchurian",
+              "rate":"30-00"
+            },
+            {
+              "id":"34",
+              "name":"Noodles",
+              "rate":"30-00"
+            },
+            {
+              "id":"35",
+              "name":"Veg Fried Rice",
+              "rate":"30-00"
+            },
+            {
+              "id":"36",
+              "name":"Veg.Biriyani",
+              "rate":"35-00"
+            },
+            {
+              "id":"",
+              "name":"",
+              "rate":""
+            },
+            {
+              "id":"",
+              "name":"SNACKS:",
+              "rate":""
+            },
+            {
+              "id":"37",
+              "name":"Golibaje(5)/Podi(4)",
+              "rate":"15-00"
+            },{
+            "id":"38",
+            "name":"Alu bonda / Veg Bonda (2)",
+            "rate":"18-00"
+          },
+            {
+              "id":"39",
+              "name":"Cutlet(2)",
+              "rate":"20-00"
+            },
+            {
+              "id":"40",
+              "name":"Buns",
+              "rate":"16-00"
+            },
+            {
+              "id":"41",
+              "name":"Samosa(1)",
+              "rate":"10-00"
+            },
+            {
+              "id":"42",
+              "name":"Rava Voda(2)",
+              "rate":"16-00"
+            },
+            {
+              "id":"43",
+              "name":"Maddur Vada(2)",
+              "rate":"18-00"
+            },
+            {
+              "id":"44",
+              "name":"Pavbaji",
+              "rate":"20-00"
+            },
+            {
+              "id":"45",
+              "name":"Vada Pav(1)",
+              "rate":"10-00"
+            },{
+            "id":"46",
+            "name":"Channa Batura",
+            "rate":"30-00"
+          },
+            {
+              "id":"47",
+              "name":"Veg Puf(1)",
+              "rate":"12-00"
+            },
+            {
+              "id":"48",
+              "name":"Onion Pakoda",
+              "rate":"15-00"
+            },
+            {
+              "id":"49",
+              "name":"Biscuit Roti(1)",
+              "rate":"10-00"
+            },
+            {
+              "id":"50",
+              "name":"Veg Burger(1)",
+              "rate":"15-00"
+            },
+            {
+              "id":"",
+              "name":"",
+              "rate":""
+            },
+            {
+              "id":"",
+              "name":"CHAT ITEMS:",
+              "rate":""
+            },
+            {
+              "id":"51",
+              "name":"Masala Puri",
+              "rate":"18-00"
+            },{
+            "id":"52",
+            "name":"Bhel Puri",
+            "rate":"18-00"
+          },
+            {
+              "id":"53",
+              "name":"Pani Puri",
+              "rate":"18-00"
+            },
+            {
+              "id":"54",
+              "name":"Dahi Puri / Sev Puri",
+              "rate":"20-00"
+            }
+          ]
+}

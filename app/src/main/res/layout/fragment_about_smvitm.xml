@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.smvitm.rajath.smvitm.AboutSMVITMActivity"
+    tools:showIn="@layout/activity_about_smvitm">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about_smvitm"
+                android:layout_marginRight="5sp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginBottom="10sp"
+                android:fontFamily="serif"
+                android:textStyle="normal"
+                android:textColor="#292f33"/>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_milestone"
+            android:layout_below="@+id/card_view_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Some Milestones in the Journey towards Excellence:"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:id="@+id/t1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/about_smvitm_milestone"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="normal"
+                    android:layout_below="@+id/t1"
+                    android:textColor="#292f33"/>
+
+
+            </RelativeLayout>
+
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_pro"
+            android:layout_below="@+id/card_view_milestone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Major Projects in the Pipeline:"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:id="@+id/t2"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pipelinesproject"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="normal"
+                    android:layout_below="@+id/t2"
+                    android:textColor="#292f33"/>
+
+
+            </RelativeLayout>
+
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_vision"
+            android:layout_below="@+id/card_view_pro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Vision"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:id="@+id/t3"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="“To Establish an Excellent, Value-based Higher Educational Hub to Meet the Challenges of Global Competitiveness”"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="normal"
+                    android:layout_below="@+id/t3"
+                    android:textColor="#292f33"/>
+
+
+            </RelativeLayout>
+
+
+
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view_mission"
+            android:layout_below="@+id/card_view_vision"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:elevation="3dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="40sp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mission"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:id="@+id/t4"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="“To impart holistic education with state of the art infrastructure facilities and conducive academic ambience, at affordable costs, leading to the creation of Centers of Excellence with best brains collectively interacting for total personality development and intellectual growth”"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginBottom="10sp"
+                    android:fontFamily="serif"
+                    android:textStyle="normal"
+                    android:layout_below="@+id/t4"
+                    android:textColor="#292f33"/>
+
+
+            </RelativeLayout>
+
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </RelativeLayout>
+
+</android.support.v4.widget.NestedScrollView>

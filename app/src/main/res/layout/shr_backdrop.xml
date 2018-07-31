@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_home_label"
+        android:id="@+id/backdrop_home"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_faculty_label"
+        android:id="@+id/backdrop_faculty"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_facilities_label"
+        android:id="@+id/backdrop_facility"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_study_materials_label"
+        android:id="@+id/backdrop_study_material"/>
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_about_smvitm_label"
+        android:id="@+id/backdrop_about_smvitm"/>
+
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_news_and_notification_label"
+        android:id="@+id/backdrop_news_and_notification"/>
+
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="?android:attr/textColorPrimary" />
+
+    <android.support.design.button.MaterialButton
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backdrop_personalize" />
+
+
+        <View
+            android:layout_width="56dp"
+            android:layout_height="1dp"
+            android:layout_margin="16dp"
+            android:background="?android:attr/textColorPrimary" />
+
+        <android.support.design.button.MaterialButton
+            style="@style/Widget.Shrine.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/backdrop_about_developer" />
+
+    </LinearLayout>
+
+</ScrollView>
